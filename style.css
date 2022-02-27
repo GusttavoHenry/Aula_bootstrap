@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+    font-family: 20px Arial, Helvetica, sans-serif;
+}
+.navbar{
+    background-color: #B51A1E;
+
+}
+
+.quem-somos {
+   background-color: #3A3A3A;
+   color: #fff;
+}
+
+.margin{
+   padding-top: 50px;
+   padding-bottom: 50px;
+
+}
+
+.ritimo{
+    background-color: #B51A1E;
+    color: #fff;
+    padding-top: 50px;
+}
+
+.servicosp{
+    text-align: center;
+}
+
+.bg-footer{
+background-color: #3A3A3A;
+color: #fff;
+}
